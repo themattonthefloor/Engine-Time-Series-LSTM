@@ -26,8 +26,6 @@ class Inference:
     def load_model(self,path_to_h5):
         return load_model(path_to_h5)
         
-
-
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='Training Parameters')
