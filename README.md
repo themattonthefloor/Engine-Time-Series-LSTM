@@ -11,7 +11,7 @@ Engine-Time-Series-LSTM
 │   └───train_log.txt
 ├───notebooks
 │   ├───eda.ipynb
-│   └───results.ipynb
+│   └───results_analysis.ipynb
 ├───results
 │   └───HP_tuning.csv
 ├───src
@@ -69,5 +69,5 @@ options:
 
 - The baseline linear regression model had achieved an RMSE of 40.48 on the test dataset.
 - The tuned LSTM model achieved an RMSE of 16.76; this is a 58.5% improvement. 
-- For more information on the use of this model, look at the results.ipynb file located in the notebooks directory.
+- For more information on the use of this model, look at the results_analysis.ipynb file located in the notebooks directory.
 - Note: Random weight initialization may cause model to achieve different performance
