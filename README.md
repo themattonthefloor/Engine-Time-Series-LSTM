@@ -21,6 +21,7 @@ Engine-Time-Series-LSTM
 ├───weights
 │    └───lstm.h5
 ├───conda.yml
+├───presentation.pdf
 └───README.md
 ```
 
