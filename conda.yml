@@ -1,0 +1,13 @@
+channels:
+  - defaults
+dependencies:
+  - python=3.10.4
+  - ipykernel=6.13.0
+  - pip=22.0.4
+  - pip:
+    - pandas==1.4.2
+    - numpy==1.22.3
+    - scikit-learn==1.0.2
+    - seaborn==0.11.2
+    - tensorflow==2.8.0
+    - tqdm==4.64.0
