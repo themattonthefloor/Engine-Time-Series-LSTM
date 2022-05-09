@@ -1,0 +1,3 @@
+MSE,alpha,sequence_length,nodes_per_layer,dropout,activation,batch_size
+368.9259033203125,0.3,100,32,0.4,tanh,128
+368.9259033203125,0.3,100,64,0.4,tanh,128
