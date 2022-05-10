@@ -6,6 +6,8 @@
 Engine-Time-Series-LSTM
 ├───data
 │   └───turbofan.csv
+├───imgs
+│   └───cum_probability_graph.png
 ├───logs
 │   ├───log.csv
 │   └───train_log.txt
@@ -21,7 +23,7 @@ Engine-Time-Series-LSTM
 ├───weights
 │    └───lstm.h5
 ├───conda.yml
-├───presentation.pdf
+├───Early Detection of Turbofan Failure.pdf
 └───README.md
 ```
 
